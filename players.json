@@ -640,7 +640,7 @@
   },
   {
     "name": "Manny Machado",
-    "hr": 388,
+    "hr": 389,
     "positions": [
       "3B",
       "SS"
@@ -654,7 +654,7 @@
   },
   {
     "name": "Bryce Harper",
-    "hr": 383,
+    "hr": 384,
     "positions": [
       "RF",
       "LF"
@@ -1018,7 +1018,7 @@
   },
   {
     "name": "Yordan Alvarez",
-    "hr": 201,
+    "hr": 203,
     "positions": [
       "LF",
       "DH"
@@ -1083,7 +1083,7 @@
   },
   {
     "name": "Trea Turner",
-    "hr": 198,
+    "hr": 200,
     "positions": [
       "SS",
       "2B"
@@ -1190,7 +1190,7 @@
   },
   {
     "name": "Cal Raleigh",
-    "hr": 162,
+    "hr": 163,
     "positions": [
       "C"
     ],
@@ -2082,7 +2082,7 @@
   },
   {
     "name": "Willy Adames",
-    "hr": 197,
+    "hr": 198,
     "positions": [
       "SS"
     ],
@@ -2213,7 +2213,7 @@
   },
   {
     "name": "Ozzie Albies",
-    "hr": 171,
+    "hr": 172,
     "positions": [
       "2B"
     ],
@@ -2509,7 +2509,7 @@
   },
   {
     "name": "Ty France",
-    "hr": 95,
+    "hr": 96,
     "positions": [
       "1B",
       "2B",
@@ -2553,7 +2553,7 @@
   },
   {
     "name": "Salvador Perez",
-    "hr": 315,
+    "hr": 316,
     "positions": [
       "C",
       "DH"
@@ -3178,7 +3178,7 @@
   },
   {
     "name": "Cedric Mullins",
-    "hr": 114,
+    "hr": 115,
     "positions": [
       "CF",
       "LF"
@@ -3216,7 +3216,7 @@
   },
   {
     "name": "Michael Harris II",
-    "hr": 90,
+    "hr": 91,
     "positions": [
       "CF"
     ],
@@ -3254,7 +3254,7 @@
   },
   {
     "name": "CJ Abrams",
-    "hr": 80,
+    "hr": 81,
     "positions": [
       "SS"
     ],
@@ -3279,7 +3279,7 @@
   },
   {
     "name": "Jazz Chisholm Jr.",
-    "hr": 122,
+    "hr": 124,
     "positions": [
       "2B",
       "CF"
@@ -3390,7 +3390,7 @@
   },
   {
     "name": "Seiya Suzuki",
-    "hr": 102,
+    "hr": 103,
     "positions": [
       "RF"
     ],
@@ -3429,7 +3429,7 @@
   },
   {
     "name": "Mookie Betts",
-    "hr": 302,
+    "hr": 304,
     "positions": [
       "RF",
       "2B",
@@ -3502,7 +3502,7 @@
   },
   {
     "name": "Andrew Vaughn",
-    "hr": 88,
+    "hr": 89,
     "positions": [
       "1B",
       "LF",
@@ -3543,7 +3543,7 @@
   },
   {
     "name": "Riley Greene",
-    "hr": 90,
+    "hr": 91,
     "positions": [
       "CF",
       "LF"
@@ -6282,7 +6282,7 @@
   },
   {
     "name": "Joc Pederson",
-    "hr": 234,
+    "hr": 235,
     "positions": [
       "1B"
     ],
@@ -7771,7 +7771,7 @@
   },
   {
     "name": "Rhys Hoskins",
-    "hr": 195,
+    "hr": 197,
     "positions": [
       "1B"
     ],
@@ -8184,7 +8184,7 @@
   },
   {
     "name": "Ian Happ",
-    "hr": 190,
+    "hr": 191,
     "positions": [
       "LF"
     ],
@@ -8297,7 +8297,7 @@
   },
   {
     "name": "Ketel Marte",
-    "hr": 188,
+    "hr": 189,
     "positions": [
       "2B"
     ],
@@ -17109,7 +17109,7 @@
   },
   {
     "name": "Jake Burger",
-    "hr": 104,
+    "hr": 105,
     "positions": [
       "1B"
     ],
@@ -19503,7 +19503,7 @@
   },
   {
     "name": "Jo Adell",
-    "hr": 88,
+    "hr": 89,
     "positions": [
       "CF"
     ],
@@ -22169,7 +22169,7 @@
   },
   {
     "name": "Jeremy Pe\u00f1a",
-    "hr": 70,
+    "hr": 71,
     "positions": [
       "SS"
     ],
@@ -24030,7 +24030,7 @@
   },
   {
     "name": "Michael Busch",
-    "hr": 69,
+    "hr": 70,
     "positions": [
       "1B"
     ],
@@ -25419,7 +25419,7 @@
   },
   {
     "name": "Brandon Marsh",
-    "hr": 67,
+    "hr": 68,
     "positions": [
       "CF"
     ],
@@ -28453,7 +28453,7 @@
   },
   {
     "name": "Heliot Ramos",
-    "hr": 52,
+    "hr": 53,
     "positions": [
       "LF"
     ],
@@ -37584,7 +37584,7 @@
   },
   {
     "name": "Nick Fortes",
-    "hr": 30,
+    "hr": 31,
     "positions": [
       "C"
     ],
@@ -42342,7 +42342,7 @@
   },
   {
     "name": "Patrick Bailey",
-    "hr": 24,
+    "hr": 25,
     "positions": [
       "C"
     ],
@@ -42623,7 +42623,7 @@
   },
   {
     "name": "Christian Encarnacion-Strand",
-    "hr": 21,
+    "hr": 22,
     "positions": [
       "1B"
     ],
